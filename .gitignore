@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Exclude license key file
+license_key.txt
+
+# Exclude Config.cfg
+Config.cfg
+
+
 # C extensions
 *.so
 

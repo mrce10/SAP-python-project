@@ -8,7 +8,7 @@ __pycache__/
 license_key.txt
 
 # Exclude Config.cfg
-Config.cfg
+config.cfg
 
 
 # C extensions
